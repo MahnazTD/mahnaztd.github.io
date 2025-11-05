@@ -3,5 +3,13 @@ layout: home
 title: Home
 ---
 
-Welcome! This is where I collect **ideas, tutorials, and notes**.
-New posts appear below. Use the **About** and **Tutorials** pages in the header to navigate.
+<div class="hero">
+  <h1>Ideas • Tutorials • Research</h1>
+  <p>Notes on Rāji, language mapping, ESL teaching, and tools I use every day.</p>
+  <p class="hero-actions">
+    <a class="btn" href="/tutorials/">Start with Tutorials</a>
+    <a class="btn btn-secondary" href="/projects/">See Projects</a>
+  </p>
+</div>
+
+Welcome! New posts appear below.
