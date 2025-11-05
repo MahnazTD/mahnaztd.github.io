@@ -1,27 +1,17 @@
 title: "Here is Mahnaz with ideas and tutorials"
 description: "Notes, tutorials, research updates and my papers."
 remote_theme: "mmistakes/minimal-mistakes"
+
 author:
   name: "Mahnaz T-D"
   email: "m.talebi.dl@gmail.com"
-minima:
-  skin: auto
-  social_links:
-    - { platform: github,  user_url: "https://github.com/" }
-    - { platform: x,       user_url: "https://x.com/" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/" }
-# Show pages (about, tutorials) in the header
-header_pages:
-  - about.md
-  - ideas.md
-  - my papers.md
-  - tutorials.md
-  - projects.md
-  - research.md
-  - contact.md
 
-show_excerpts: true
-paginate: 5
-paginate_path: "/page:num"
+# Required plugins for Minimal Mistakes
 plugins:
+  - jekyll-include-cache
   - jekyll-paginate
+
+paginate: 6
+paginate_path: "/page:num"
+
+# (No 'minima:' block and no 'header_pages:' here)
