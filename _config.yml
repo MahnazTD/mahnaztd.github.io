@@ -19,9 +19,9 @@ header_pages:
   - projects.md
   - research.md
   - contact.md
+
 show_excerpts: true
 paginate: 5
 paginate_path: "/page:num"
 plugins:
   - jekyll-paginate
-google_analytics: ""
