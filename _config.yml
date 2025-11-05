@@ -12,7 +12,6 @@ minima:
     - { platform: linkedin, user_url: "https://www.linkedin.com/" }
 # Show pages (about, tutorials) in the header
 header_pages:
- header_pages:
   - about.md
   - ideas.md
   - my papers.md
