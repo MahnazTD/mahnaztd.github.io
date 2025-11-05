@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Tutorials"
+    url: /tutorials/
+  - title: "Projects"
+    url: /projects/
+  - title: "Research"
+    url: /research/
+  - title: "My Papers"
+    url: /my-papers/
+  - title: "Ideas"
+    url: /ideas/
+  - title: "Contact"
+    url: /contact/
