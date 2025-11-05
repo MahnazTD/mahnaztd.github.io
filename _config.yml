@@ -1,0 +1,22 @@
+title: "Mahnaz — Ideas & Tutorials"
+description: "Notes, tutorials, research updates, and random experiments."
+theme: minima
+author:
+  name: "Mahnaz Talebi-Dastenaei"
+  email: ""
+minima:
+  skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/" }
+    - { platform: x,       user_url: "https://x.com/" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/" }
+# Show pages (about, tutorials) in the header
+header_pages:
+  - about.md
+  - tutorials.md
+show_excerpts: true
+paginate: 5
+paginate_path: "/page:num"
+plugins:
+  - jekyll-paginate
+google_analytics: ""
