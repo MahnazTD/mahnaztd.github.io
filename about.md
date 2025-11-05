@@ -5,8 +5,7 @@ permalink: /about/
 nav: true
 ---
 
-Hi, I'm **Mahnaz**. I write about linguistics, language mapping, ESL teaching, and tools I use every day.
-This site is built with [GitHub Pages](https://pages.github.com/) and the **minima** theme.
+Hi, I'm **Mahnaz**. I write about linguistics, language mapping, and tools I use every day.
 
 ### Topics I cover
 - Research notes and datasets
