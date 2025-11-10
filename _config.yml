@@ -6,12 +6,9 @@ author:
   name: "Mahnaz T-D"
   email: "m.talebi.dl@gmail.com"
 
-# Required plugins for Minimal Mistakes
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
 
 paginate: 6
 paginate_path: "/page:num"
-
-# (No 'minima:' block and no 'header_pages:' here)
