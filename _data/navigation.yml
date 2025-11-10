@@ -3,15 +3,11 @@ main:
     url: /
   - title: "Tutorials"
     url: /tutorials/
-  - title: "Projects"
-    url: /projects/
-  - title: "Research"
-    url: /research/
-  - title: "My Papers"
+  - title: "My papers"
     url: /my-papers/
   - title: "Ideas"
     url: /ideas/
-  - title: "Mixing Terms"
+  - title: "Mixing terms"
     url: /mixing-terms/
-  - title: "Contact"
+  - title: "Contact me"
     url: /contact/
