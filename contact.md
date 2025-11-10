@@ -1,25 +1,34 @@
 ---
 layout: single
-title: "Contact me"
+title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
 
-If you’d like to get in touch about my research, projects, or tutorials, feel free to send me a message:
+If you’d like to get in touch about my research, tutorials, or collaborations, use the form below:
 
-<form action="https://formspree.io/f/movyabgl" method="POST" class="contact-form">
-  <label for="name">Your Name (required)</label>
-  <input type="text" id="name" name="name" required>
+<form action="https://formspree.io/f/xyzabcd" method="POST" class="contact-form">
+  <label>
+    Your Name (required)
+    <input type="text" name="name" required>
+  </label>
 
-  <label for="email">Your Email (required)</label>
-  <input type="email" id="email" name="_replyto" required>
+  <label>
+    Your Email (required)
+    <input type="email" name="_replyto" required>
+  </label>
 
-  <label for="subject">Subject</label>
-  <input type="text" id="subject" name="subject">
+  <label>
+    Subject
+    <input type="text" name="subject">
+  </label>
 
-  <label for="message">Your Message</label>
-  <textarea id="message" name="message" rows="6" required></textarea>
+  <label>
+    Your Message
+    <textarea name="message" rows="6" required></textarea>
+  </label>
 
+  <!-- optional: helps you see which page it came from -->
   <input type="hidden" name="_subject" value="New message from mahnaztd.github.io">
 
   <button type="submit">Send</button>
