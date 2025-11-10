@@ -11,5 +11,7 @@ main:
     url: /my-papers/
   - title: "Ideas"
     url: /ideas/
+  - title: "Mixing Terms"
+    url: /mixing-terms/
   - title: "Contact"
     url: /contact/
