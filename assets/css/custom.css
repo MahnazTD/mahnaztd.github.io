@@ -99,3 +99,8 @@ img { border-radius: .5rem; }
 .page__content h2::before {
   vertical-align: middle;
 }
+
+body {
+  font-size: 15px; /* مقدار پیش‌فرض حدود 17px است */
+  line-height: 1.6;
+}
