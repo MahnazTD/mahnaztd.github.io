@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "My Papers"
-    url: /my-papers/
+    - title: "My papers"
+  url: /publications/
   - title: "Tutorials"
     url: /tutorials/
   - title: "Ideas"
