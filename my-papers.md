@@ -1,8 +1,9 @@
 ---
 layout: single
-title: "Publications & Presentations"
-permalink: /publications/
+title: "My Papers"
+permalink: /my-papers/
 ---
+
 
 # 📚 Publications
 
