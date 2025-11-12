@@ -37,6 +37,5 @@ Instead, post ideas that are:
 ---
 
 🗣 **Share your ideas here:**  
-👉 [Go to Discussions and Add Your Idea](https://github.com/YourUsername/YourRepo/discussions/categories/ideas)
-
+👉 ....
 Let’s grow a garden of ideas — together.
