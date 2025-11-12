@@ -48,3 +48,54 @@ img { border-radius: .5rem; }
   opacity: 0.9;
 }
 
+/* ===== Publications & Presentations page styling ===== */
+
+.page__content h1 {
+  font-size: 1.8rem;           /* smaller than default */
+  font-weight: 600;
+  margin-bottom: 0.5em;
+}
+
+.page__content h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-top: 2em;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.2em;
+}
+
+.page__content h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+  margin-top: 1.5em;
+}
+
+.page__content ul {
+  list-style-type: disc;
+  margin-left: 1.5em;
+  font-size: 0.9rem;            /* smaller text for lists */
+  line-height: 1.5;
+  color: #222;
+}
+
+.page__content ul li {
+  margin-bottom: 0.7em;         /* spacing between items */
+  text-indent: -1em;            /* hanging indent effect */
+  margin-left: 1em;
+}
+
+.page__content a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: Make emojis (📚, 🎤) smaller and aligned nicely */
+.page__content h1::before, 
+.page__content h2::before {
+  vertical-align: middle;
+}
