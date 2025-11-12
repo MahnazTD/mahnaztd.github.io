@@ -1,10 +1,7 @@
 ---
 layout: single
-title: "Publications & Presentations"
-permalink: /publications/
-redirect_from:
-  - /my-papers/
-  - /my-papers.html
+title: "My Papers"
+permalink: /my-papers/
 ---
 
 # 📚 Publications & Presentations
