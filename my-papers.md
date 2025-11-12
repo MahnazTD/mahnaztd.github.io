@@ -1,8 +1,12 @@
 ---
 layout: single
 title: "My Papers"
-permalink: /my-papers/
+permalink: /my-papers/index.html
+redirect_from:
+  - /my-papers/
+  - /my-paper/
 ---
+
 
 # 📚 Publications & Presentations
 
