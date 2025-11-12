@@ -51,12 +51,12 @@ permalink: /publications/
 - **Talebi-Dastenaei, M., Poshtvan, H., & Anonby, E.** (2025, January). Defining the Gilaki language area through isoglosses. ICIL 10, Italy.
 - **Poshtvan, H., Talebi-Dastenaei, M.** (2024, April). Gilaki Isogloss. Second Annual Linguistics Graduate Conference, Carleton University, Ottawa.
 - **Talebi-Dastenaei, M., Poshtvan, H., Jesney, K.** (2024, June). Exploring variability and contextual influences on the uvular consonant [ġ] in Gilaki. CLA, Carleton University, Ottawa.
-- **Anonby, E., Talebi-Dastenaei, M., et al.** (2023, May). The Atlas of the Languages of Iran (ALI) research programme: recent innovations and results. University of Arizona.
+- **Anonby, E., Talebi-Dastenaei, M., et al.** (2023, May). The Atlas of the Languages of Iran (ALI) Research Programme: Recent Innovations and Results. University of Arizona.
 - **Poshtvan, H., Talebi-Dastenaei, M.** (2023, April). Diversity in unity: what linguistic maps of Gilaki have to offer. Carleton University, Ottawa.
 - **Poshtvan, H., Talebi-Dastenaei, M.** (2018). Down of today Iran’s languages: a study based on UNESCO’s degree of language endangerment criteria. SEI Congress, University of Tehran.
 - **Talebi-Dastenaei, M., Poshtvan, H., Anonby, E.** (2018). Raji in contact with Persian: contrasting paths to convergence in two dialects. ACIA Conference, Russian-Armenian University, Yerevan.
 - **Talebi-Dastenaei, M.** (2012). Anger metaphor in the congenitally blind persons’ language. ÖSKL, Austria.
-- **Solgi, F., Talebi-Dastenaei, M.** (2010). The effect of using etymology on learning “Cutting Edge” vocabularies. TELLSI 9, Ilam, Iran.
+- **Solgi, F., Talebi-Dastenaei, M.** (2010). The Effect of Using Etymology on Learning “Cutting Edge” Vocabulary. TELLSI 9, Ilam, Iran.
 - **Talebi-Dastenaei, M., Solgi, F.** (2010). Applying cognitive linguistics in vocabulary learning of high school books. TELLSI 9, Ilam, Iran.
 
 ---
@@ -68,11 +68,3 @@ permalink: /publications/
 - **Talebi-Dastenaei, M., Ghatreh, F.** (2016). The study of ecolinguistic adjectives in Lori-Bakhtiari. 3rd International Conference of Iranian Languages and Dialects, Tehran.
 - **Poshtvan, H., Talebi-Dastenaei, M.** (2012). Impact of ecolinguistics on teaching Persian to Spanish learners (poster). Conference on Persian Language Learning and Teaching, Madrid.
 - **Ghatreh, F., Talebi-Dastenaei, M.** (2011). Cognitive morphology in Persian. The 3rd Conference of Persian Morphology, Tehran.
-
----
-
-✅ **Tip:**  
-To add this to your site’s menu, open `_data/navigation.yml` and include:
-```yaml
-- title: "Publications"
-  url: /publications/
