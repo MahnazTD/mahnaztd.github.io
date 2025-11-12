@@ -4,38 +4,27 @@ title: "Contact"
 permalink: /contact/
 ---
 
-<form action="https://formspree.io/f/REPLACE_WITH_YOUR_CODE" method="POST">
-  <p>
-    <label for="name">Your Name (required)</label><br>
-    <input type="text" id="name" name="name" required style="width:100%">
-  </p>
+<form action="https://formspree.io/f/abcd1234" method="POST">
+  <label>Your Name (required)
+    <input type="text" name="name" required>
+  </label>
 
-  <p>
-    <label for="email">Your Email (required)</label><br>
-    <input type="email" id="email" name="email" required style="width:100%">
-  </p>
+  <label>Your Email (required)
+    <input type="email" name="email" required>
+  </label>
 
-  <p>
-    <label for="subject">Subject</label><br>
-    <input type="text" id="subject" name="subject" style="width:100%">
-  </p>
+  <label>Subject
+    <input type="text" name="subject">
+  </label>
 
-  <p>
-    <label for="message">Your Message</label><br>
-    <textarea id="message" name="message" rows="10" style="width:100%"></textarea>
-  </p>
+  <label>Your Message
+    <textarea name="message" rows="7" required></textarea>
+  </label>
 
-  <!-- anti-spam honeypot (hidden from users) -->
-  <p style="display:none">
-    <label>Leave this empty:
-      <input type="text" name="_gotcha">
-    </label>
-  </p>
+  <!-- Optional extras -->
+  <input type="hidden" name="_subject" value="New message from mahnaztd.github.io">
+  <input type="hidden" name="_redirect" value="https://mahnaztd.github.io/contact/thanks/">
+  <input type="text" name="_gotcha" style="display:none"> <!-- honeypot -->
 
-  <!-- Optional: redirect to a thank-you page after submit -->
-  <!-- <input type="hidden" name="_next" value="/thanks/"> -->
-
-  <button type="submit" style="padding:.6rem 1.2rem;background:#0aa0df;border:none;color:#fff;border-radius:3px">
-    SEND
-  </button>
+  <button type="submit">Send</button>
 </form>
