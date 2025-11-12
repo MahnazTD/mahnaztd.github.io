@@ -1,9 +1,9 @@
-# 🌿 Zaban and Zendegi — Ideas
+# 🌿 Zaban and Zendegi: Ideas
 
 Welcome to the **Ideas** section of *Zaban and Zendegi*.  
 Here I share my own ideas — and invite others to share theirs — about writing, linguistics, and research.
 
-If you have an idea, feel free to post it in the [Discussions](../../discussions) section.  
+If you have an idea, feel free to post it in the [Discussions]((https://github.com/YourUsername/YourRepo/discussions/categories/ideas) section.  
 Your idea will appear **under your name**, and you can include your **email** if you’d like others to contact you for collaboration or joint research.
 
 ---
