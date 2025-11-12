@@ -30,7 +30,6 @@ permalink: /contact/
 <div class="main-content">
   <h1>📮 Get in Touch</h1>
 
-  <p>No contact forms here — just real connection.</p>
   <p>If you have an idea, question, or suggestion, email me anytime at:</p>
 
   <p><strong><a href="mailto:m.talebi.dl@gmail.com">m.talebi.dl@gmail.com</a></strong></p>
