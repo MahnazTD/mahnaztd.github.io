@@ -2,34 +2,40 @@
 layout: single
 title: "Contact"
 permalink: /contact/
-author_profile: true
 ---
 
-If you’d like to get in touch about my research, tutorials, or collaborations, use the form below:
+<form action="https://formspree.io/f/REPLACE_WITH_YOUR_CODE" method="POST">
+  <p>
+    <label for="name">Your Name (required)</label><br>
+    <input type="text" id="name" name="name" required style="width:100%">
+  </p>
 
-<form action="https://formspree.io/f/xyzabcd" method="POST" class="contact-form">
-  <label>
-    Your Name (required)
-    <input type="text" name="name" required>
-  </label>
+  <p>
+    <label for="email">Your Email (required)</label><br>
+    <input type="email" id="email" name="email" required style="width:100%">
+  </p>
 
-  <label>
-    Your Email (required)
-    <input type="email" name="_replyto" required>
-  </label>
+  <p>
+    <label for="subject">Subject</label><br>
+    <input type="text" id="subject" name="subject" style="width:100%">
+  </p>
 
-  <label>
-    Subject
-    <input type="text" name="subject">
-  </label>
+  <p>
+    <label for="message">Your Message</label><br>
+    <textarea id="message" name="message" rows="10" style="width:100%"></textarea>
+  </p>
 
-  <label>
-    Your Message
-    <textarea name="message" rows="6" required></textarea>
-  </label>
+  <!-- anti-spam honeypot (hidden from users) -->
+  <p style="display:none">
+    <label>Leave this empty:
+      <input type="text" name="_gotcha">
+    </label>
+  </p>
 
-  <!-- optional: helps you see which page it came from -->
-  <input type="hidden" name="_subject" value="New message from mahnaztd.github.io">
+  <!-- Optional: redirect to a thank-you page after submit -->
+  <!-- <input type="hidden" name="_next" value="/thanks/"> -->
 
-  <button type="submit">Send</button>
+  <button type="submit" style="padding:.6rem 1.2rem;background:#0aa0df;border:none;color:#fff;border-radius:3px">
+    SEND
+  </button>
 </form>
