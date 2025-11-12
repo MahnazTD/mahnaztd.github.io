@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Ideas"
+permalink: /ideas/
+---
+
 # 🌿 Zaban and Zendegi: Ideas
 
 Welcome to the **Ideas** section of *Zaban and Zendegi*.  
