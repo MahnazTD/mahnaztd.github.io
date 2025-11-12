@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
 # 📫 Get in Touch
 
 No contact forms here — just real connection.  
