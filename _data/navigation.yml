@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "My Papers"
-  url: /my-paper/
+  url: /my-papers/
   - title: "Tutorials"
     url: /tutorials/
   - title: "Ideas"
