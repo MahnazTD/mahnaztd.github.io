@@ -4,4 +4,4 @@ title: Home
 ---
 
 <div class="hero">
-  <h1>Ideas • Tutorials • Research</h1>
+  <h1>Hello, this is Mahnaz</h1>
