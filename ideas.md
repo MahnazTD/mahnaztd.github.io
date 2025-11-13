@@ -4,9 +4,9 @@ title: "Ideas"
 permalink: /ideas/
 ---
 
-# 🌿 Zaban and Zendegi: Ideas
+# 🌿 Language and life: Ideas
 
-Welcome to the **Ideas** section of *Zaban and Zendegi*.  
+Welcome to the **Ideas** section of *Language and Life*.  
 Here I share my own ideas — and invite others to share theirs — about writing, linguistics, and research.
 
 If you have an idea, feel free to post it in the
