@@ -1,8 +1,7 @@
 ---
 layout: single
-title: Publications
-show_title: false
-permalink: /publications/
+title: "My Papers"
+permalink: /my-papers/
 ---
 
 
