@@ -5,11 +5,6 @@ redirect_from:
   - /my-papers/
 ---
 
-
-# 📚 Publications & Presentations
-
----
-
 ## Publications (in English)
 
 - **Talebi-Dastenaei, M., Poshtvan, H., Anonby, E.** (2023). Two Raji dialects converge with Persian: contrasting responses to contact influence. *Iranian Studies*, 1–27. [https://doi.org/10.1017/irn.2023.29](https://doi.org/10.1017/irn.2023.29)
