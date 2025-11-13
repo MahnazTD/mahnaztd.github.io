@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: single
 title: Tutorials
 permalink: /tutorials/
-nav: true
 ---
+
 
 Here are step‑by‑step guides and resources. Add new ones as separate pages or posts.
 
