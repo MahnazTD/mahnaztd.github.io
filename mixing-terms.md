@@ -2,7 +2,7 @@
 layout: single
 title: "Mixing Terms"
 permalink: /mixing-terms/
-author_profile: true
+author_profile: false
 ---
 I’ve always been fascinated by how language can *mix ideas from different worlds* —  
 especially where science and creativity meet.  
