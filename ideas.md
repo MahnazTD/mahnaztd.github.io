@@ -28,7 +28,7 @@ Instead, post ideas that are:
 - 🧩 Research concepts you don’t have the time, data, or funding to develop — but would love to see explored.
 
 <p align="center">
-  <a href="https://github.com/MahnazTD/mahnaztd.github.io/discussions/categories/ideas" class="btn btn--primary">
+  <a href="https://github.com/MahnazTD/mahnaztd.github.io/discussions/3" class="btn btn--primary">
     💬 Join the Discussion
   </a>
 </p>
