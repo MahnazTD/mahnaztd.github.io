@@ -4,8 +4,7 @@ title: "Mixing Terms"
 permalink: /mixing-terms/
 author_profile: false
 ---
-I’ve always been fascinated by how language can *mix ideas from different worlds* —  
-especially where science and creativity meet.  
+I’ve always been fascinated by how language can *mix ideas from different worlds*, especially where science and creativity meet.  
 This page gathers a few of the **hybrid linguistic concepts** I have coined and explored in my research.
 
 ---
