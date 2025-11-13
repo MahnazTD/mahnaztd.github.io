@@ -31,11 +31,13 @@ All ideas are valuable, but before posting, please do a quick search in **Englis
 
 You don’t have to share your most private or ongoing work.  
 Instead, post ideas that are:
-- 🌱 Unique and personal (e.g., *My high school memories: how I survived dorm life*)  
-- 🧩 Research concepts you don’t have the time, data, or funding to develop — but would love to see explored.  
+- 🌱 Unique and personal (e.g., *Grammar Skerch of the Raji language of Barzok*)  
+- 🧩 Research concepts you don’t have the time, data, or funding to develop — but would love to see explored.
 
----
-
-🗣 **Share your ideas here:**  
+<p align="center">
+  <a href="https://github.com/MahnazTD/mahnaztd.github.io/discussions/categories/ideas" class="btn btn--primary">
+    💬 Join the Discussion
+  </a>
+</p>
 👉 ....
 Let’s grow a garden of ideas — together.
