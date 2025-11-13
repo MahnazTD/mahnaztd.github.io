@@ -15,13 +15,6 @@ Your idea will appear **under your name**, and you can include your **email** if
 
 ---
 
-### 💡 About this space
-
-This is a collaborative place for:
-- ✏️ Book or writing ideas  
-- 📚 Research and academic project concepts  
-- 🗣️ Linguistic and dialect-related topics  
-
 **Note:**  
 All ideas are valuable, but before posting, please do a quick search in **English** and in your **mother tongue** to make sure the idea hasn’t already been published.  
 
