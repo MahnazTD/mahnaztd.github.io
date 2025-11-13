@@ -19,9 +19,9 @@ Maybe none of us do.
 However, that uncertainty is what makes this conversation worthwhile.
 
 ✨ Let’s explore together:  
-**What do you think about the future of linguistics?**  
-In your own field, what might happen?
+How do you see the future of linguistics unfolding?
 
+In your field, what kinds of changes do you expect to see?
 ---
 
 💬 **Join the discussion here:**  
