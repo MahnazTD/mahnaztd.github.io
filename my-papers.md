@@ -1,11 +1,12 @@
 ---
 layout: single
-permalink: /my-papers/index.html
-redirect_from:
-  - /my-papers/
+title: Publications
+show_title: false
+permalink: /publications/
 ---
 
-## Publications (in English)
+
+# 📚 Publications (in English)
 
 - **Talebi-Dastenaei, M., Poshtvan, H., Anonby, E.** (2023). Two Raji dialects converge with Persian: contrasting responses to contact influence. *Iranian Studies*, 1–27. [https://doi.org/10.1017/irn.2023.29](https://doi.org/10.1017/irn.2023.29)
 - **Poshtvan, H., & Talebi-Dastenaei, M.** (2022). Coastal toponyms of Iran: classification of some placenames from Bushehr and Gilan based on Australian National Placenames Survey typology. *Asian Languages and Linguistics*, 3(1), 89–108.
