@@ -1,12 +1,9 @@
 ---
 layout: single
-title: "Future of Linguistics"
+title: "🌍Future of Linguistics"
 permalink: /future-of-linguistics/
 author_profile: false
 ---
-
-
-## 🌍 The Future of Linguistics
 
 The future is always unknown — a landscape wrapped in mystery.  
 Sometimes we imagine it, perhaps to quiet our minds or give shape to what we cannot control.
