@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Tutorials
+title: "👩‍🏫📘Tutorials"
 permalink: /tutorials/
 ---
 
