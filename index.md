@@ -28,7 +28,8 @@
 <div class="ltr-block">
 The world breathes through its languages, sounds, and colors.  
 Each language carries its own small universe,  
-and this space is a place for ideas and learning—  
+and this space is a place for ideas and learning;
+  
 a place to create, explore, and look at languages with curiosity.
 
 <br>
