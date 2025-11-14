@@ -2,15 +2,14 @@
 layout: home
 title: "✨Welcome خوش آمدید"
 ---
----
-title: "Welcome"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: "/assets/images/header.jpg"
----
+The world breathes through its languages, sounds, and colors.
+Each language carries its own small universe,
+and this space is a place for ideas and learning—
+a place to create, explore, and look at languages with curiosity.
 
-  
-I’m Mahnaz. I love exploring languages, ideas, and creative projects.
-Here, I share small thoughts, tutorials, and things I’m working on.
-Thanks for visiting — I hope you find something useful or inspiring.
+Welcome, I hope something in this small journey inspires you.
+
+دنیا با زبان‌ها، صداها و رنگ‌ها نفس می‌کشد؛ 
+هر زبان دنیای کوچک خودش را دارد و اینجا جایی‌ست برای ایده‌ها و یادگیری؛
+جایی برای ساختن، تجربه‌کردن و نگاه‌کردن به زبان‌ها با کنجکاوی. 
+خوش آمدید؛ امیدوارم چیزی از این سفر کوچک برایتان الهام‌بخش باشد
