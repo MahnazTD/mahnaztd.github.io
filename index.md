@@ -14,31 +14,36 @@
   margin: 2rem 0;
 }
 
-.persian-block .ltr {
+.ltr-block {
   direction: ltr;
   text-align: left;
-  display: block;
   font-family: "Inter", Arial, sans-serif;
-  margin-top: 1.5rem;
+  font-size: 1.06rem;
+  line-height: 1.7;
+  margin-bottom: 2rem;
 }
 </style>
 
-<!-- ===== THE PERSIAN + ENGLISH TEXT BLOCK ===== -->
-<div class="persian-block">
-
-دنیا با زبان‌ها، صداها و رنگ‌ها نفس می‌کشد؛  
-هر زبان دنیای کوچک خودش را دارد و اینجا جایی‌ست برای ایده‌ها و یادگیری 
-جایی برای ساختن، تجربه‌کردن و نگاه‌کردن به زبان‌ها با کنجکاوی.
-
-<br>
-
-خوش آمدید؛ میدوارم چیزی از این سفر کوچک برایتان الهام‌بخش باشد.
-
-<span class="ltr">
+<!-- ===== ENGLISH FIRST ===== -->
+<div class="ltr-block">
 The world breathes through its languages, sounds, and colors.  
 Each language carries its own small universe,  
 and this space is a place for ideas and learning—  
 a place to create, explore, and look at languages with curiosity.
-</span>
+
+<br>
+Welcome — I hope something in this small journey inspires you.
+</div>
+
+<!-- ===== THEN PERSIAN ===== -->
+<div class="persian-block">
+
+دنیا با زبان‌ها، صداها و رنگ‌ها نفس می‌کشد؛  
+هر زبان دنیای کوچک خودش را دارد و اینجا جایی‌ست برای ایده‌ها و یادگیری—  
+جایی برای ساختن، تجربه‌کردن و نگاه‌کردن به زبان‌ها با کنجکاوی.
+
+<br>
+
+خوش آمدید—امیدوارم چیزی از این سفر کوچک برایتان الهام‌بخش باشد.
 
 </div>
