@@ -9,6 +9,21 @@ a place to create, explore, and look at languages with curiosity.
 
 Welcome, I hope something in this small journey inspires you.
 
+
+<div class="persian-block">
+
+دنیا با زبان‌ها، صداها و رنگ‌ها نفس می‌کشد؛ 
+هر زبان دنیای کوچک خودش را دارد و اینجا جایی‌ست برای ایده‌ها و یادگیری؛
+جایی برای ساختن، تجربه‌کردن و نگاه‌کردن به زبان‌ها با کنجکاوی. 
+خوش آمدید؛ امیدوارم چیزی از این سفر کوچک برایتان الهام‌بخش باشد.
+
+<p class="ltr">
+Welcome— I hope something in this small journey inspires you.
+</p>
+
+</div>
+
+
 دنیا با زبان‌ها، صداها و رنگ‌ها نفس می‌کشد؛ 
 هر زبان دنیای کوچک خودش را دارد و اینجا جایی‌ست برای ایده‌ها و یادگیری؛
 جایی برای ساختن، تجربه‌کردن و نگاه‌کردن به زبان‌ها با کنجکاوی. 
