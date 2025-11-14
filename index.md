@@ -32,7 +32,7 @@ and this space is a place for ideas and learning—
 a place to create, explore, and look at languages with curiosity.
 
 <br>
-Welcome — I hope something in this small journey inspires you.
+Welcome; I hope this small path brings you a fresh perspective.
 </div>
 
 <!-- ===== THEN PERSIAN ===== -->
@@ -44,6 +44,7 @@ Welcome — I hope something in this small journey inspires you.
 
 <br>
 
-خوش آمدید—امیدوارم چیزی از این سفر کوچک برایتان الهام‌بخش باشد.
+خوش آمدید؛ میدوارم این مسیر کوچک نگاه تازه‌ای برایتان به‌همراه بیاورد.
+
 
 </div>
