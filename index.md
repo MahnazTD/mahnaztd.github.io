@@ -1,30 +1,44 @@
----
-layout: home
-title: "✨Welcome خوش آمدید"
----
-The world breathes through its languages, sounds, and colors.
-Each language carries its own small universe,
-and this space is a place for ideas and learning—
-a place to create, explore, and look at languages with curiosity.
+<!-- ===== Load Persian & English Fonts ===== -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@latest/dist/font-face.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/shabnam-font@master/dist/font-face.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap">
 
-Welcome, I hope something in this small journey inspires you.
+<!-- ===== RTL Persian Block Styling ===== -->
+<style>
+.persian-block {
+  direction: rtl;
+  text-align: right;
+  font-family: "Vazirmatn", "Shabnam", sans-serif;
+  line-height: 1.9;
+  font-size: 1.06rem;
+  margin: 2rem 0;
+}
 
+.persian-block .ltr {
+  direction: ltr;
+  text-align: left;
+  display: block;
+  font-family: "Inter", Arial, sans-serif;
+  margin-top: 1.5rem;
+}
+</style>
 
+<!-- ===== THE PERSIAN + ENGLISH TEXT BLOCK ===== -->
 <div class="persian-block">
 
-دنیا با زبان‌ها، صداها و رنگ‌ها نفس می‌کشد؛ 
-هر زبان دنیای کوچک خودش را دارد و اینجا جایی‌ست برای ایده‌ها و یادگیری؛
-جایی برای ساختن، تجربه‌کردن و نگاه‌کردن به زبان‌ها با کنجکاوی. 
-خوش آمدید؛ امیدوارم چیزی از این سفر کوچک برایتان الهام‌بخش باشد.
+دنیا با زبان‌ها، صداها و رنگ‌ها نفس می‌کشد؛  
+هر زبان دنیای کوچک خودش را دارد و اینجا جایی‌ست برای ایده‌ها و یادگیری 
+جایی برای ساختن، تجربه‌کردن و نگاه‌کردن به زبان‌ها با کنجکاوی.
 
-<p class="ltr">
-Welcome— I hope something in this small journey inspires you.
-</p>
+<br>
+
+خوش آمدید؛ میدوارم چیزی از این سفر کوچک برایتان الهام‌بخش باشد.
+
+<span class="ltr">
+The world breathes through its languages, sounds, and colors.  
+Each language carries its own small universe,  
+and this space is a place for ideas and learning—  
+a place to create, explore, and look at languages with curiosity.
+</span>
 
 </div>
-
-
-دنیا با زبان‌ها، صداها و رنگ‌ها نفس می‌کشد؛ 
-هر زبان دنیای کوچک خودش را دارد و اینجا جایی‌ست برای ایده‌ها و یادگیری؛
-جایی برای ساختن، تجربه‌کردن و نگاه‌کردن به زبان‌ها با کنجکاوی. 
-خوش آمدید؛ امیدوارم چیزی از این سفر کوچک برایتان الهام‌بخش باشد
