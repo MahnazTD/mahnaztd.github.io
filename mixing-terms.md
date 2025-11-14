@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Mixing Terms"
+title: "🧩🔤Mixing Terms"
 permalink: /mixing-terms/
 author_profile: false
 ---
