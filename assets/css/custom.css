@@ -104,3 +104,33 @@ body {
   font-size: 15px; /* مقدار پیش‌فرض حدود 17px است */
   line-height: 1.6;
 }
+<!-- Persian Fonts -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@latest/dist/font-face.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/shabnam-font@master/dist/font-face.css">
+
+<style>
+  /* === Only this page uses RTL === */
+  .persian-block {
+    direction: rtl;
+    text-align: right;
+    font-family: "Vazirmatn", "Shabnam", sans-serif;
+    line-height: 1.85;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  /* English part inside RTL block */
+  .persian-block .ltr {
+    direction: ltr;
+    text-align: left;
+    font-family: "Inter", Arial, sans-serif;
+  }
+
+  /* Beautiful headings inside this block */
+  .persian-block h1,
+  .persian-block h2,
+  .persian-block h3 {
+    font-family: "Shabnam", "Vazirmatn", sans-serif;
+    font-weight: 600;
+  }
+</style>
