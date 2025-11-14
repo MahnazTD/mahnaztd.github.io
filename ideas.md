@@ -1,12 +1,9 @@
 ---
 layout: single
-title: "Ideas"
+title: "🌿 Language and life: Ideas"
 permalink: /ideas/
 author_profile: false
 ---
-
-
-# 🌿 Language and life: Ideas
 
 Welcome to the **Ideas** section of *Language and Life*.  
 Here I share my own ideas — and invite others to share theirs — about writing, linguistics, and research.
