@@ -2,7 +2,9 @@
 layout: single
 title: "Ideas"
 permalink: /ideas/
+author_profile: false
 ---
+
 
 # 🌿 Language and life: Ideas
 
