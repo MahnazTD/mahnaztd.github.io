@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "🌍Home"
+title: "✨Welcome خوش آمدید"
 ---
 ---
 title: "Welcome"
