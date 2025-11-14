@@ -1,5 +1,5 @@
 ---
-title: Language Invention
+title: "🛠️🔤Language Invention"
 layout: default
 permalink: /language-invention/
 ---
