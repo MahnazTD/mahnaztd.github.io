@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🌍Future of Linguistics"
+title: "🔮Future of Linguistics"
 permalink: /future-of-linguistics/
 author_profile: false
 ---
