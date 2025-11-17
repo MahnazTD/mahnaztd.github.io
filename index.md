@@ -27,7 +27,7 @@
 <!-- ===== ENGLISH FIRST ===== -->
 <div class="ltr-block">
 Languages, with their sounds and colors, make life more beautiful, and each one carries a little world within itself. 
-This small place is a space for ideas and learning—a simple place to create, explore, and come a little closer to the world of languages.
+Here is a space for ideas and learning—a simple place to create, explore, and come a little closer to the world of languages.
 
 Welcome; I hope this small path brings you a good feeling and a touch of inspiration.
 
@@ -37,7 +37,9 @@ Welcome; I hope this small path brings you a fresh perspective.
 
 <!-- ===== THEN PERSIAN ===== -->
 <div class="persian-block">
-زبان‌ها با صداها و رنگ‌هایشان زندگی را زیباتر می‌کنند و هر زبان دنیای کوچکی در دل خودش دارد. این مکان کوچک، جایی‌ست برای ایده‌ها و یادگیری؛ جایی ساده برای ساختن، تجربه‌کردن و نزدیک‌تر شدن به دنیای زبان‌ها.
+زبان‌ها با صداها و رنگ‌هایشان زندگی را زیباتر می‌کنند و هر زبان دنیای کوچکی در دل خودش دارد.
+  
+اینجا، جایی‌ست برای ایده‌ها و یادگیری؛ جایی ساده برای ساختن، تجربه‌کردن و نزدیک‌تر شدن به دنیای زبان‌ها.
 
 <br>
 
