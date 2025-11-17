@@ -29,10 +29,8 @@
 Languages, with their sounds and colors, make life more beautiful, and each one carries a little world within itself. 
 Here is a space for ideas and learning—a simple place to create, explore, and come a little closer to the world of languages.
 
-Welcome; I hope this small path brings you a good feeling and a touch of inspiration.
-
 <br>
-Welcome; I hope this small path brings you a fresh perspective.
+Welcome; I hope this small path brings you a good feeling and a touch of inspiration.
 </div>
 
 <!-- ===== THEN PERSIAN ===== -->
