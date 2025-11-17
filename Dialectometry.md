@@ -4,10 +4,6 @@ title: Dialectometry
 permalink: /Dialectometry/
 ---
 Understanding variation, measuring distance, and mapping patterns.
-
-I use **dialectometry** to analyze how linguistic varieties differ across space — especially in **Rāji**, **Gilaki**, and other Central Iranian languages.  
-My approach combines *linguistic data* with *ecological and cultural variables* to uncover deeper patterns of variation.
-
 ---
 
 ## 🌍 What I Mean by Dialectometry  
@@ -127,14 +123,6 @@ Using:
 Part of ALI’s major projects on language distribution.
 
 If you’d like access to the datasets or scripts, feel free to contact me.
-
----
-
-## 📚 Related Publications (selected)
-
-- Talebi-Dastenaei, M., Poshtvan, H., Anonby, E. (2023). *Two Raji dialects converge with Persian…*
-- Taheri-Ardali, M., Anonby, E., … Talebi-Dastenaei, M. (2021). *Atlas of the Languages of Iran…*
-- Poshtvan, H., Talebi-Dastenaei, M. (2019). *UNESCO endangerment criteria study…*
 
 ---
 
