@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 🔬 Dialectometry 
-permalink: /dialectometry/
+permalink: /Dialectometry/
 ---
 
 # 🔬 Dialectometry  
