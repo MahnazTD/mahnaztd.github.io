@@ -1,10 +1,8 @@
 ---
 layout: single
-title: 🔬 Dialectometry 
+title: Dialectometry 
 permalink: /Dialectometry/
 ---
-
-# 🔬 Dialectometry  
 Understanding variation, measuring distance, and mapping patterns.
 
 I use **dialectometry** to analyze how linguistic varieties differ across space — especially in **Rāji**, **Gilaki**, and other Central Iranian languages.  
