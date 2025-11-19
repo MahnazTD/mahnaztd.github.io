@@ -5,15 +5,19 @@ main:
     url: /my-papers/
   - title: "Tutorials"
     url: /tutorials/
-  - title: "Ideas"
-    url: /ideas/
   - title: "Dialectometry"
     url: /Dialectometry/
-  - title: "Future of Linguistics"
-    url: /future-of-linguistics/
-  - title: "Language Invention"
-    url: /language-invention/
-  - title: "Mixing terms"
-    url: /mixing-terms/
+  - title: "AI & Endangered Languages"
+    url: /AI & Endangered Languages/
+  - title: "Ideas"
+    url: /ideas/
+    children:
+     - title: "Future of Linguistics"
+       url: /future-of-linguistics/
+    - title: "Language Invention"
+      url: /language-invention/
+    - title: "Mixing terms"
+      url: /mixing-terms/ 
+    
   - title: "Contact"
     url: /contact/
