@@ -5,10 +5,10 @@ main:
     url: /my-papers/
   - title: "Tutorials"
     url: /tutorials/
-  - title: "Dialectometry"
-    url: /dialectometry/
   - title: "Ideas"
     url: /ideas/
+  - title: "Dialectometry"
+    url: /dialectometry/
   - title: "AI & Endangered Languages"
     url: /ai-endangered-languages/
   - title: "Future of Linguistics"
