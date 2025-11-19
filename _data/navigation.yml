@@ -1,23 +1,28 @@
 main:
   - title: "Home"
     url: /
+  
   - title: "My Papers"
     url: /my-papers/
+  
   - title: "Tutorials"
     url: /tutorials/
+  
   - title: "Dialectometry"
-    url: /Dialectometry/
-  - title: "ai-endangered-languages"
-    url: /AI & Endangered Languages/
+    url: /dialectometry/
+  
+  - title: "AI & Endangered Languages"
+    url: /ai-endangered-languages/
+  
   - title: "Ideas"
     url: /ideas/
     children:
-     - title: "Future of Linguistics"
-       url: /future-of-linguistics/
-    - title: "Language Invention"
-      url: /language-invention/
-    - title: "Mixing terms"
-      url: /mixing-terms/ 
-    
+      - title: "Future of Linguistics"
+        url: /future-of-linguistics/
+      - title: "Language Invention"
+        url: /language-invention/
+      - title: "Mixing Terms"
+        url: /mixing-terms/
+  
   - title: "Contact"
     url: /contact/
