@@ -7,10 +7,10 @@ main:
     url: /tutorials/
   - title: "Dialectometry"
     url: /dialectometry/
-  - title: "AI & Endangered Languages"
-    url: /ai-endangered-languages/
   - title: "Ideas"
     url: /ideas/
+  - title: "AI & Endangered Languages"
+    url: /ai-endangered-languages/
   - title: "Future of Linguistics"
     url: /future-of-linguistics/
   - title: "Language Invention"
