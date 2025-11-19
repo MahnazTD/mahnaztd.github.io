@@ -1,14 +1,19 @@
 main:
   - title: "Home"
     url: /
+
   - title: "My Papers"
     url: /my-papers/
+
   - title: "Tutorials"
     url: /tutorials/
+
   - title: "Dialectometry"
     url: /dialectometry/
+
   - title: "AI & Endangered Languages"
     url: /ai-endangered-languages/
+
   - title: "Ideas"
     url: /ideas/
     children:
@@ -18,5 +23,6 @@ main:
         url: /language-invention/
       - title: "Mixing Terms"
         url: /mixing-terms/
+
   - title: "Contact"
     url: /contact/
