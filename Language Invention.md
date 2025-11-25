@@ -3,155 +3,301 @@ title: "🛠️🔤Language Invention"
 layout: single
 permalink: /language-invention/
 ---
-Nasvara — A Fictional Language
-1. Name and Writing
+🌿 Nasvara — A Fictional Language
+
+A conlang shaped by forests, wind, and ancient breath.
+
+🔤 1. Name & Writing
 
 Language Name: Nasvara
 Georgian Script: ნასვარა
 IPA: /nasvara/
-Meaning: “the whisper of leaves”
+Literal Meaning: “the whisper of leaves”
 
-This meaning is symbolic within the fictional culture and not derived from any real language.
+This meaning is symbolic within the fictional world and does not derive from any real language.
 
-2. Internal Etymology
+🌱 2. Internal Etymology (In-World)
 
 nas — breath, mist, motion of leaves
 vara — sound, resonance, whisper
-nas + vara → Nasvara
-Meaning: “breath-sound, the whisper carried through leaves”
 
-3. Mythic Origin
+nas + vara → Nasvara
+Meaning: “breath-sound”, the whisper carried by leaves.
+
+🌳 3. Mythic Origin
 
 “In the age before speech, the First Tree exhaled.
 Its breath became sound.
 The sound shaped the first words,
 and the forest named the language Nasvara.”
 
-4. Structure of the Language
-4.1 Typology
+In this worldview, language is not invented — it is discovered.
 
-Verbs inflect for person, tense, aspect
+🧩 4. Structure of the Language
+4.1 Typological Snapshot
 
-Nouns take particles (not inflection)
+Verb-heavy morphology
 
-Rich derivational morphology
+Particle-based noun system
 
-Balanced verbal complexity and simple noun phrases
+SOV default word order
+
+Productive derivation (plants, spirits, natural forces)
+
+A balance of complexity (verbs) and simplicity (nouns)
 
 4.2 Phonology
+Consonants
+p/pʰ     პ / ფ      ts/tsʼ   ც / წ       ʃ       შ
+b        ბ          tʃ/tʃʼ   ჩ / ჭ       ʒ       ჟ
+t̪/t̪ʰ   ტ / თ      s        ს           x       ხ
+d̪       დ          z        ზ           χ       ჴ
+k/kʰ     კ / ქ      m        მ           ʁ       ღ
+g        გ          n        ნ           h       ჰ
+q/qʰ/qˤ  ყ / ქ/ღჴ   r        რ           j       ი
+ɢ        ღ          l        ლ           w       უ
 
-Consonants (IPA → Georgian):
-p/pʰ პ/ფ
-b ბ
-t̪/t̪ʰ ტ/თ
-d̪ დ
-k/kʰ კ/ქ
-g გ
-q/qʰ/qˤ ყ/ქ/ღჴ
-ɢ ღ
-ts/tsʼ ც/წ
-tʃ/tʃʼ ჩ/ჭ
-s ს
-z ზ
-ʃ შ
-ʒ ჟ
-x ხ
-χ ჴ
-ʁ ღ
-h ჰ
-m მ
-n ნ
-r რ
-l ლ
-j ი
-w უ
+Vowels
+a   ა
+e   ე
+i   ი
+o   ო
+u   უ
+ɨ   ჲ
 
-Vowels:
-a ა
-e ე
-i ი
-o ო
-u უ
-ɨ ჲ
 
-Long vowels spelled double.
+Long vowels: doubled (აა, ეე, იი…)
 
-Syllable patterns: CV, CVC, CCV, CCCV
+Syllable Patterns
 
-Example words:
-ყრემა qrema “tree”
-ნულავი nulavi “leaf”
-მესქა meska “forest”
+CV
+
+CVC
+
+CCV
+
+CCCV (ritual/ancient words)
+
+Examples:
+ყრემა qrema — “tree”
+ნულავი nulavi — “leaf”
+მესქა meska — “forest”
 
 4.3 Word Order
 
-Default SOV with particle-based flexibility.
+Default: SOV
+Topic particles allow flexible alternation.
 
-4.4 Nouns
+4.4 Nouns with Particles
 
-Nouns remain uninflected.
+Nouns do not inflect.
 
-Definiteness:
-na = definite
-ta = indefinite
+Definiteness
 
-Cases:
-ga = nominative/topic (also ergative in past)
-tu = accusative
-len = genitive
-mor = dative
-xai = locative
-zur = instrumental
+na — definite
+
+ta — indefinite
+
+Cases
+
+ga — nominative/topic (also ergative in past)
+
+tu — accusative
+
+len — genitive
+
+mor — dative
+
+xai — locative
+
+zur — instrumental
 
 4.5 Plural Formation
 
-Plural suffix: -ši (–ში)
+Plural suffix: –ši (–ში)
 
-Examples:
+Examples
 navri → navriši “people”
 nulavi → nulaviši “leaves”
 meska → meskaši “forests”
 
-Order: noun + plural + (case/definiteness)
+Order:
+Noun + Plural + (Case/Definiteness)
 
-4.6 Agreement System
+4.6 Agreement & Alignment
+Present/Future
 
-Present/Future: nominative–accusative
-Past: split ergativity (agent marked with ga)
+Nominative–accusative
+→ verb agrees with subject
 
-Example (past):
+Past
+
+Split ergative
+→ agent marked with ga
+→ verb agrees with agent
+
+Example:
+
 navri ga felur nexro-do-an
 “The person (ERG) ate.”
 
 4.7 Verb Morphology
 
-Structure: ROOT – TAM – PERSON
+Structure:
 
-Tense:
+ROOT – TAM – PERSON
+
+Tense
+
 ra- present
+
 do- past
+
 še- future
 
-Aspect:
+Aspect
+
 ma- progressive
+
 ri- perfect
+
 la- habitual
 
-Person suffixes:
+Person Markers
+
 -im 1sg
+
 -et 2sg
+
 -an 3sg
+
 -inu 1pl
+
 -etu 2pl
+
 -ani 3pl
 
 4.8 Derivational Morphology
 
 za- intensifier
+
 su- negation
+
 kro- collective
+
 mi- diminutive
+
 -ar abstract noun
--otu agent
+
+-otu agent noun
+
 -ela place
+
 -kri instrument
+
+🌿 5. Vocabulary
+
+(Formatted for GitHub readability.)
+
+NATURE & ENVIRONMENT
+--------------------
+ყრემა     qrema      tree
+ნულავი     nulavi     leaf
+მესქა      meska      forest
+ღორნა      ghorna     root
+ტაჰრე      tahre      flower
+სელდა      selda      river
+ფურამ      furam      mountain
+მაღუ       maghu      wind
+ჟელარ      želar      rain
+ცაკო       tsako      soil
+ვორშა      vorsha     vine
+ხელუა      xelua      seed
+ბუნარ      bunar      moss
+ხორე       xore       shadow
+სუჰრი      suhri      sunlight
+
+ANIMALS & SPIRITS
+-----------------
+მირავ      mirav      bird
+კორუ       koru       animal
+ჟაგრი      žagri      forest spirit
+წეჰნა      tsehna     night creature
+ფაგუ       fagu       insect
+
+PEOPLE & SOCIETY
+----------------
+ნავრი      navri      person
+სადა       sada       elder
+მოხრი      moxri      child
+თალენ      talen      friend
+გურტა      gurta      clan
+
+OBJECTS & TOOLS
+---------------
+ფელურ      felur      bowl
+ქრიდა      khrida     knife
+დრუშა      drusha     rope
+შეგრი      shegri     fire
+მორზა      morza      path
+გრაშა      grasha     drum
+ქელამ      qelam      hut
+სუყრა      suqra      basket
+
+VERB ROOTS
+----------
+laš-       to walk
+xel-       to see
+šor-       to speak
+grem-      to grow
+nex-       to eat
+zur-       to give
+fag-       to make/do
+dun-       to hear/listen
+mor-       to enter
+brel-      to wait
+
+ABSTRACT CONCEPTS
+-----------------
+მაჰრი      mahri      life
+გელუ       gelu       peace
+საშენ      sashen     memory
+დადა       dada       fear
+ფომერ      fomer      silence
+ნეჰლა      nehla      spirit/breath
+ქრესი      qresi      light
+
+🌬️ 6. Traditional Greeting
+
+Nasvara: ნეჰლა შენგა ნავრი
+IPA: /nehla ʃenga navɾi/
+Meaning: “Breath be upon you, person.”
+
+🪵 7. Sample Sentences (20)
+
+Here are 20 example sentences with IPA and English.
+
+1
+ნავრი მორზა შერგა ლაშიმ.
+/navɾi moɾza ʃeɾga laʃim/
+The person will walk the path.
+
+2
+მოხრი ხელუა გორა გლენა.
+/moxɾi xelua goɾa glena/
+The child plants a seed.
+
+3
+სადა ჟაგრი დუნრო დოან.
+/sada ʒagɾi dunɾo doan/
+The elder heard the forest spirit.
+
+4
+ქელამ შეგრი დოან.
+/qelam ʃegɾi doan/
+The hut held the fire.
+
+5
+ნულავი გრემა შერა.
+/nulavi gɾema ʃeɾa/
+The leaf will grow.
