@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Dialectometry 
-permalink: /Dialectometry/
+permalink: /dialectometry/
 ---
 Understanding variation, measuring distance, and mapping patterns.
 ---
