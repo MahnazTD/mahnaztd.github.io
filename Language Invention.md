@@ -3,12 +3,8 @@ title: "🛠️🔤Language Invention"
 layout: single
 permalink: /language-invention/
 ---
-# Nasvara — A Fictional Language
-
-## 1. Name and Writing
-
 * **Language Name:** Nasvara
-* **Georgian Script:** ნასვარა
+* **Script:** ნასვარა
 * **IPA:** /nasvara/
 * **Meaning:** “the whisper of leaves”
     > *This meaning is symbolic within the fictional culture and not derived from any real language.*
