@@ -33,5 +33,5 @@ author_profile: false
 
   <p><strong><a href="mailto:m.talebi.dl@gmail.com">m.talebi.dl@gmail.com</a></strong></p>
 
-  <p>I’m always happy to talk about words, maps, and the stories that connect them.</p>
+  <p>I’m always happy to talk about words, maps, and AI.</p>
 </div>
