@@ -10,6 +10,7 @@ I’ve been thinking a lot about AI and endangered languages; its impact is deep
 The world is already moving toward less diversity. In the next fifty years, many small languages may disappear simply because global systems favor a few dominant tongues. Translation technology, economic pressure, and global mobility all push speakers toward larger languages.
 
 But at the same time, AI can become a powerful ally. It can strengthen archives, speed up fieldwork, and reduce the energy we spend on transcription and data processing. The work we normally do—collecting, transcribing, annotating, turning raw data into structured data—can be made dramatically easier with AI.
+
 ---
 ## The Two-Faced Future
 
