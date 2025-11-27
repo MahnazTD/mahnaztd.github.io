@@ -1,10 +1,8 @@
 ---
 layout: single
-title: ✉️ Contact
 permalink: /contact/
 author_profile: false
 ---
-
 <style>
 .main-content {
   max-width: 700px;
