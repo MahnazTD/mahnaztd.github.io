@@ -9,6 +9,8 @@ main:
     url: /ideas/
   - title: "Dialectometry"
     url: /dialectometry/
+  - title: "dictionaries"
+    url: /dictionaries/   
   - title: "AI & Endangered Languages"
     url: /ai-endangered-languages/
   - title: "Future of Linguistics"
