@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Dictionaries"
-permalink: /Dictionaries/
+permalink: /dictionaries/
 author_profile: false
 ---
 
