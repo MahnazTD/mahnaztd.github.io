@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Dictionaries"
 permalink: /dictionaries/
 author_profile: false
 ---
@@ -13,6 +12,3 @@ Here you will find entries related to ongoing and completed dictionary work, inc
 
 Contributions are welcome. If you are working on a dictionary or lexical dataset, you are invited to share your work.
 
-Please use the comments section below to contribute.
-
-Your contribution will appear under your name, and you may include your email address if you wish to connect with others for collaboration or research.
