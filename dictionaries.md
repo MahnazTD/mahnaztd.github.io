@@ -1,6 +1,5 @@
 ---
 layout: single
-permalink: /dictionaries/
 author_profile: false
 ---
 
