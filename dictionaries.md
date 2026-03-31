@@ -5,14 +5,17 @@ permalink: /dictionaries/
 author_profile: false
 ---
 
-Welcome to the **Dictionaries** section of *Language and Life*.
+Welcome to the Dictionaries section of Language and Life.
 
-This space is dedicated to the documentation and exploration of lexical resources, with a particular focus on lesser-described and under-documented languages. It brings together dictionary projects, wordlists, and lexical materials that support linguistic research and preservation.
+This space is dedicated to the documentation and exploration of lexical resources, with a particular focus on lesser-described and under-documented languages. It brings together dictionary projects, wordlists, and other lexical materials that support linguistic research, preservation, and accessibility.
 
-Here you will find entries related to ongoing and completed dictionary work, including meanings, usage examples, and, where possible, etymological and cultural notes.
+🌿 Varkani Dictionary
 
-Contributions are welcome. If you are working on a dictionary or lexical dataset, you are invited to share your work.
+The Varkani Dictionary is an ongoing lexical documentation project aimed at preserving and analyzing the Varkani language.
 
-Please use the comments section below to contribute.
+🔗 View the dictionary online:
+https://lexonomy.eu/#varkani
 
-Your contribution will appear under your name, and you may include your email address if you wish to connect with others for collaboration or research.
+This dictionary has been developed using Lexonomy, a platform for building and managing structured lexical resources.
+
+📖 A step-by-step guide explaining how this dictionary was created is available in the Tutorial section of this website.
