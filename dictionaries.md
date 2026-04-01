@@ -13,8 +13,8 @@ This space is dedicated to the documentation and exploration of lexical resource
 
 The Varkani Dictionary is an ongoing lexical documentation project aimed at preserving and analyzing the Varkani language.
 
-🔗 View the dictionary online:
-https://lexonomy.eu/#varkani
+🔗 ### Online Dictionary
+[Varkani Trilingual Dictionary (Lexonomy)](https://lexonomy.eu/#varkani)
 
 This dictionary has been developed using Lexonomy, a platform for building and managing structured lexical resources.
 
