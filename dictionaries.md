@@ -21,3 +21,5 @@ This dictionary has been developed using Lexonomy, a platform for building and m
 
 🔗 [Varkani Dictionary (HTML version)](/dictionaries/varkani-html/)
 
+
+🔗 [Varkani Dictionary (HTML version)](/Varkani-Flex/)
