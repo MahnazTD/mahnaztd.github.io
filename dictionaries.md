@@ -19,5 +19,5 @@ This dictionary has been developed using Lexonomy, a platform for building and m
 
 📖 A step-by-step guide explaining how this dictionary was created is available in the Tutorial section of this website.
 
-dictionaries/varkani-html/
+🔗 [Varkani Dictionary (HTML version)](/dictionaries/varkani-html/)
 
