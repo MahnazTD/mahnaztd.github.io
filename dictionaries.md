@@ -26,6 +26,8 @@ While this format preserves the structure and content of the original lexical da
 
 🔗 [Varkani Dictionary (Lexique Pro)](https://mahnaztd.github.io/Lexique%20Pro/Web%20Pages/Varkani%20Lexicon/)
 
+(Link to tutorial)
+
 📗 Varkani Dictionary (FLEx)
 
 This version was created using FLEx (FieldWorks Language Explorer). The data were first prepared in an Excel file, then imported into FLEx for structuring and editing. After making the necessary modifications, the dictionary was exported as an HTML file for publication.
