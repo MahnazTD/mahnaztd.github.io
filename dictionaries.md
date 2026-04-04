@@ -21,9 +21,11 @@ This version of the dictionary has been developed using Lexonomy, an online plat
 (Link to tutorial)
 
 📘 Varkani Dictionary (Lexique Pro)
+This version of the Varkani Dictionary is an export from Lexique Pro, a tool developed by SIL International for publishing lexical databases created in FieldWorks (FLEx). It provides a static, alphabetically organized representation of the dictionary, allowing users to browse entries by letter.
 
-This version is an export from Lexique Pro, a software tool designed for publishing dictionaries in a user-friendly, searchable format, often used for offline and web-based lexical resources.
-(Link to tutorial)
+While this format preserves the structure and content of the original lexical database, it offers limited interactivity compared to more modern platforms (e.g., no advanced search functionality). It is included here as a stable and accessible web-based version of the dataset.
+
+🔗 [Varkani Dictionary (Lexique Pro)](https://mahnaztd.github.io/Lexique%20Pro/Web%20Pages/Varkani%20Lexicon/)
 
 📗 Varkani Dictionary (FLEx)
 
