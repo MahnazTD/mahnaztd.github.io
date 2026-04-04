@@ -14,7 +14,6 @@ This section is dedicated to the documentation and exploration of lexical resour
 The Varkani Dictionary is an ongoing lexical documentation project aimed at preserving and analyzing the Varkani language.
 
 This version of the dictionary has been developed using Lexonomy, an online platform for creating and managing structured lexical resources.
-🔗 Varkani Trilingual Dictionary (Lexonomy)
 
 🔗 [Varkani Trilingual Dictionary (Lexonomy)](https://lexonomy.eu/#varkani)
 
