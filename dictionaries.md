@@ -35,5 +35,3 @@ This version was created using FLEx (FieldWorks Language Explorer). The data wer
 
 📖🔗 [Varkani Dictionary (HTML version)](/Varkani-Flex/)
 
-
-[Varkani Dictionary (HTML version)](/Lexique Pro/)
