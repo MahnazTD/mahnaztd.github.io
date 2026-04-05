@@ -33,5 +33,5 @@ While this format preserves the structure and content of the original lexical da
 This version was created using FLEx (FieldWorks Language Explorer). The data were first prepared in an Excel file, then imported into FLEx for structuring and editing. After making the necessary modifications, the dictionary was exported as an HTML file for publication.
 
 📖🔗 [Varkani Dictionary (HTML version)](/Varkani-Flex/)
-[Link to the tutorial of FLEx (https://github.com/MahnazTD/mahnaztd.github.io/blob/main/FLEx%20Tutorial-2026.pdf)
+[Link to the tutorial of FLEx] (https://github.com/MahnazTD/mahnaztd.github.io/blob/main/FLEx%20Tutorial-2026.pdf)
 
