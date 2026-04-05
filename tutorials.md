@@ -26,5 +26,5 @@ The following tutorial introduces the basic steps for using Lexonomy to build a 
 
 FLEx (FieldWorks Language Explorer) is a tool for creating and managing digital dictionaries. This tutorial demonstrates how to convert Excel data into SFM format, import it into FLEx, and export a searchable HTML dictionary.
 
-📄 📄 FLEx Tutorial (PDF)
+📄 FLEx Tutorial (PDF)
 
