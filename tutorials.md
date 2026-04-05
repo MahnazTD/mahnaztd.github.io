@@ -14,5 +14,11 @@ You can download or view the tutorial here:
 
 [📄 Lexique Pro Tutorial (PDF)](LexiquePro_Tutorial.pdf)
 
+## Lexonomy Tutorial
 
+Lexonomy is an online dictionary-writing system designed to create and manage digital lexical resources. It provides a user-friendly interface for organizing dictionary entries, adding linguistic information, and publishing searchable dictionaries online.
+
+The following tutorial introduces the basic steps for using Lexonomy to build a digital dictionary:
+
+[📄 Lexonomy Tutorial (PDF)](https://github.com/MahnazTD/mahnaztd.github.io/blob/main/Lexonomy_Tutorial.pdf)
 
