@@ -17,7 +17,7 @@ This version of the dictionary has been developed using Lexonomy, an online plat
 
 🔗 [Varkani Trilingual Dictionary (Lexonomy)](https://lexonomy.eu/#varkani)
 
-(Link to tutorial)
+[Link to the tutorial of Lexonomy](https://github.com/MahnazTD/mahnaztd.github.io/blob/main/Lexonomy_Tutorial.pdf)
 
 📘 Varkani Dictionary (Lexique Pro)
 This version of the Varkani Dictionary is an export from Lexique Pro, a tool developed by SIL International for publishing lexical databases created in FieldWorks (FLEx). It provides a static, alphabetically organized representation of the dictionary, allowing users to browse entries by letter.
@@ -26,12 +26,12 @@ While this format preserves the structure and content of the original lexical da
 
 🔗 [Varkani Dictionary (Lexique Pro)](https://mahnaztd.github.io/Lexique%20Pro/Web%20Pages/Varkani%20Lexicon/)
 
-(Link to tutorial)
+[Link to the tutorial of Lexique Pro](https://mahnaztd.github.io/LexiquePro_Tutorial.pdf)
 
 📗 Varkani Dictionary (FLEx)
 
 This version was created using FLEx (FieldWorks Language Explorer). The data were first prepared in an Excel file, then imported into FLEx for structuring and editing. After making the necessary modifications, the dictionary was exported as an HTML file for publication.
-(Link to tutorial)
 
 📖🔗 [Varkani Dictionary (HTML version)](/Varkani-Flex/)
+[Link to the tutorial of FLEx (https://github.com/MahnazTD/mahnaztd.github.io/blob/main/FLEx%20Tutorial-2026.pdf)
 
