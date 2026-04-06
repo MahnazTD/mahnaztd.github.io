@@ -22,6 +22,14 @@ The following tutorial introduces the basic steps for using Lexonomy to build a 
 
 [📄 Lexonomy Tutorial (PDF)](https://github.com/MahnazTD/mahnaztd.github.io/blob/main/Lexonomy_Tutorial.pdf)
 
+## WeSay Tutorial
+
+WeSay is a simple and user-friendly tool developed by SIL International for building dictionaries and collecting lexical data. It is especially useful for language documentation and community-based projects.
+
+Users can easily add words, definitions, example sentences, and audio recordings, and organize vocabulary using semantic domains. WeSay is often used together with FieldWorks Language Explorer (FLEx) for further analysis and with Lexique Pro for publishing.
+
+[WeSay Tutorial (PDF)](https://github.com/MahnazTD/mahnaztd.github.io/blob/main/WeSay%20Tutorial-MahnazTD.pdf)
+
 ## FLEx Tutorial
 
 FLEx (FieldWorks Language Explorer) is a tool for creating and managing digital dictionaries. This tutorial demonstrates how to convert Excel data into SFM format, import it into FLEx, and export a searchable HTML dictionary.
