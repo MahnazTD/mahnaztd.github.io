@@ -28,7 +28,7 @@ WeSay is a simple and user-friendly tool developed by SIL International for buil
 
 Users can easily add words, definitions, example sentences, and audio recordings, and organize vocabulary using semantic domains. WeSay is often used together with FieldWorks Language Explorer (FLEx) for further analysis and with Lexique Pro for publishing.
 
-[WeSay Tutorial (PDF)](https://github.com/MahnazTD/mahnaztd.github.io/blob/main/WeSay%20Tutorial-MahnazTD.pdf)
+[📄 WeSay Tutorial (PDF)](https://github.com/MahnazTD/mahnaztd.github.io/blob/main/WeSay%20Tutorial-MahnazTD.pdf)
 
 ## FLEx Tutorial
 
