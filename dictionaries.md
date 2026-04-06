@@ -13,7 +13,7 @@ This section is dedicated to documenting and exploring lexical resources, with a
 
 This section presents a community-oriented, non-technical approach to creating HTML-based dictionaries, illustrated through a trilingual model (Raji–Persian–English). Raji, as spoken in Varkan, belongs to the Central Plateau language group in Esfahan Province, Iran.
 
-Fieldwork for this project was conducted in Varkan in June 2023. The consultant, Mr. Mahmud Homayuni, a 53-year-old male fluent in both Varkani and Persian, hosted me in his mother’s house in Varkan. Lexical data were collected directly from the consultant using the *[Atlas of the Languages of Iran* (ALI)](https://iranatlas.net/index.html) [questionnaire](https://carleton.ca/iran/questionnaires/). They were further enriched with materials from The *Treasury of the Dialects of Iran, Esfahan Province, Volume 4* (Borjian & Fathi Borujeni, 2021).
+Fieldwork for this project was conducted in Varkan in June 2023. The consultant, Mr. Mahmud Homayuni, a 53-year-old male fluent in both Varkani and Persian, hosted me in his mother’s house in Varkan. Lexical data were collected directly from the consultant using the [*Atlas of the Languages of Iran* (ALI)](https://iranatlas.net/index.html) [questionnaire](https://carleton.ca/iran/questionnaires/). They were further enriched with materials from The *Treasury of the Dialects of Iran, Esfahan Province, Volume 4* (Borjian & Fathi Borujeni, 2021).
 
 
 🌿 **Varkani Dictionary (Lexonomy)**
